@@ -41,6 +41,7 @@
   text-align: center;
   line-height:normal;
   margin-top: 30px;
+  float: right;
 }
 .cd {
   font-style: italic;
@@ -48,3 +49,4 @@
 .artist {
   font-weight: bold;
 }
+
